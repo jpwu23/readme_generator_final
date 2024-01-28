@@ -19,6 +19,8 @@ Installation of the application is not necessary, however, please have node.js i
 ## Usage
 For usage, simply download the assets of this repository and invoke the index.js using the command node index.js on the CLI. Then follow the prompts of this command line.
 
+The usage walkthrough video is here: https://streamable.com/kuv9v4
+
 ## Contributing
 To contribute to this project, simply create a pull request and await admin approval.
 
