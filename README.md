@@ -30,6 +30,9 @@ A user can test this application for themselves by following the usage instructi
 ## License
 This project is licensed under the MIT license.
 
+## Credits
+ChatGPT, edX bootcamp resources.
+
 ## Questions
 Users can use the dedicated mobile number to contact the admin at 0415 193 657.  
 For further questions or support, please contact [jpwu23](https://github.com/jpwu23) via email at jpwu23@outlook.com.
